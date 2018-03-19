@@ -1,0 +1,4 @@
+Apple 5
+Orange 5
+Banana 7
+Papaya 2
